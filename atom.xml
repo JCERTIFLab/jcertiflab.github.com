@@ -4,11 +4,19 @@
   <title><![CDATA[JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
+<<<<<<< HEAD
   <updated>2012-12-31T00:23:01+01:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[Le lab]]></name>
     <email><![CDATA[lab@jcertif.org]]></email>
+=======
+  <updated>2013-01-06T15:41:02-05:00</updated>
+  <id>http://JCERTIFLab.github.com/</id>
+  <author>
+    <name><![CDATA[JCertif Lab]]></name>
+    
+>>>>>>> 15c5f3587f01d1a52632eed9fc8f35e3033d2f7b
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
