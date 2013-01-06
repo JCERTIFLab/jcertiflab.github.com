@@ -3,15 +3,12 @@
 # ----------------------- #
 
 url: http://JCERTIFLab.github.com
-<<<<<<< HEAD
 title: JCertif Lab
 subtitle: Le blog
 author: JCertif Lab
-=======
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
->>>>>>> 90cc9a8c206a9103dbe8fc351e1d040ccfbc4a23
 simple_search: http://google.com/search
 description:
 
