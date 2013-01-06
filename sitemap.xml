@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://JCERTIFLab.github.com/blog/archives/</loc>
+        <lastmod>2012-12-31T00:10:19+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JCERTIFLab.github.com/</loc>
+        <lastmod>2012-12-31T00:10:19+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://JCERTIFLab.github.com/robots.txt</loc>
+        <lastmod>2012-12-31T00:10:19+01:00</lastmod>
+    </url>
+</urlset>
