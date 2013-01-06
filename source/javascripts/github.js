@@ -1,12 +1,19 @@
 var github = (function(){
+<<<<<<< HEAD
   function escapeHtml(str) {
     return $('<div/>').text(str).html();
   }
+=======
+>>>>>>> 90cc9a8c206a9103dbe8fc351e1d040ccfbc4a23
   function render(target, repos){
     var i = 0, fragment = '', t = $(target)[0];
 
     for(i = 0; i < repos.length; i++) {
+<<<<<<< HEAD
       fragment += '<li><a href="'+repos[i].html_url+'">'+repos[i].name+'</a><p>'+escapeHtml(repos[i].description||'')+'</p></li>';
+=======
+      fragment += '<li><a href="'+repos[i].html_url+'">'+repos[i].name+'</a><p>'+(repos[i].description||'')+'</p></li>';
+>>>>>>> 90cc9a8c206a9103dbe8fc351e1d040ccfbc4a23
     }
     t.innerHTML = fragment;
   }
