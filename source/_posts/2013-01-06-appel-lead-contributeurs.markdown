@@ -21,3 +21,4 @@ Si l'un de ces profils vous correspond vous pouvez remplir le formulaire suivant
 Si vous ne voyez aucun intérêt à participer à un projet sans être rémunéré, vous trouverez des éléments de reflexion [ici](/blog/about).
 
 Si vous avez des questions/remarques/suggestions pour JCertif Lab, vous pouvez écrire à __lab@jcertif.org__.
+
