@@ -4,7 +4,7 @@
   <title><![CDATA[Category: blog | JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
-  <updated>2013-01-14T16:54:30-05:00</updated>
+  <updated>2013-01-14T16:59:59-05:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[JCertif Lab]]></name>
@@ -66,7 +66,9 @@
 
 <h4>Récupérer les sources depuis Github</h4>
 
-<p>{% gist 4532971 %}</p>
+<p><div><script src='https://gist.github.com/4532971.js'></script>
+<noscript><pre><code>git clone -b source git@github.com:JCERTIFLab/jcertiflab.github.com.git</code></pre></noscript></div>
+</p>
 
 <h4>Créer un fichier dans le répertoire source/_posts</h4>
 
@@ -76,7 +78,16 @@
 
 <h4>Ajouter l'entête</h4>
 
-<p>{% gist 4533268 %}</p>
+<p><div><script src='https://gist.github.com/4533268.js'></script>
+<noscript><pre><code>---
+layout: post
+title: &quot;Contribuer au blog JCertif Lab&quot;
+date: 2013-01-07 22:59
+comments: true
+categories: octopress, blog
+author: Rossi Oddet
+---</code></pre></noscript></div>
+</p>
 
 <h4>Régider votre article</h4>
 
@@ -97,7 +108,11 @@ Profitez pour regarder les sources de cet article pour vous faire une idée.</p>
 
 <h4>Soumettez un article</h4>
 
-<p>{% gist 4533333 %}</p>
+<p><div><script src='https://gist.github.com/4533333.js'></script>
+<noscript><pre><code>git add .
+git commit -m &quot;Un article sur mon sujet préféré&quot;
+git push origin source</code></pre></noscript></div>
+</p>
 
 <h4>Mise en ligne d'un article</h4>
 
