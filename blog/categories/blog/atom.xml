@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: blog | JCertif Lab]]></title>
+  <link href="http://JCERTIFLab.github.com/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://JCERTIFLab.github.com/"/>
+  <updated>2013-01-14T16:54:30-05:00</updated>
+  <id>http://JCERTIFLab.github.com/</id>
+  <author>
+    <name><![CDATA[JCertif Lab]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Contribuer au blog JCertif Lab]]></title>
+    <link href="http://JCERTIFLab.github.com/blog/2013/01/07/blog-octopress/"/>
+    <updated>2013-01-07T22:59:00-05:00</updated>
+    <id>http://JCERTIFLab.github.com/blog/2013/01/07/blog-octopress</id>
+    <content type="html"><![CDATA[<p>Ce blog est construit autour du produit <a href="http://octopress.org/">Octopress</a>.</p>
+
+<h2>Pourquoi Octopress ?</h2>
+
+<p>Plusieurs outils de génération de blog existent : Blogger, Wordpress, Google Site etc... Ces outils ont un point commun : la rédaction d'article en ligne.</p>
+
+<p>Dans notre contexte africain où certaines régions sont encore mal desservies, être dépendant d'une connexion internet durant la phase de rédaction représente un inconvénient majeur.</p>
+
+<p>Un contributeur doit pouvoir rédiger librement son article avec toutes ses ressources en local (sur son poste) et mettre à disposition son travail par le biais d'une synchronisation.</p>
+
+<p>C'est précisement sur ce mode d'utilisation que Octopress, Git et Github vont se révéler très pratique.</p>
+
+<h4>L'édition d'article se fait en markdown</h4>
+
+<p>Ecrire un article revient à écrire dans un fichier texte sans se soucier de la mise en forme. C'est comme si vous écriviez le brouillon d'un article avec un notepad et que ça suffisait pour l'avoir en ligne :)</p>
+
+<p>Le contributeur peut écrire son article avec l'éditeur texte de son choix (Notepad, Vi, Sublime Text, ...).</p>
+
+<p>Sauvegarder les articles sans mise en forme est un bon moyen de stockage des articles et facilite les futurs migrations vers d'autres moteurs de blog.</p>
+
+<h4>Git est offline !</h4>
+
+<p>Git est un gestionnaire de version de fichiers, un peu comme SVN, avec une grande différence : il fonctionne en mode offline.</p>
+
+<p>Avec Git, on gère l'historisation de nos fichiers, les branches, ... en local et on utilise le réseau internet que pour se synchroniser avec d'autres dépôts.</p>
+
+<p>Le contributeur peut ainsi gérer ses modifications, faire des retours arrières etc... sans avoir besoin du réseau internet. Il n'utilise internet qu'au moment de partager à d'autres ses articles.</p>
+
+<h4>Le blog généré par Octopress est statique</h4>
+
+<p>Ce qui rend la recherche d'hébergeur très aisé. Il nous est donc possible de l'héberger gratuitement sur Github sans avoir à effectuer la maintenance d'un serveur web.</p>
+
+<h4>Octopress est extensible</h4>
+
+<p>Il y a de nombreux <a href="https://github.com/imathis/octopress/wiki/3rd-party-plugins">plugins</a> et il est très simple d'en créer pour des besoins spécifiques.</p>
+
+<h2>Comment contribuer ?</h2>
+
+<h4>Pré-requis</h4>
+
+<ul>
+<li>Avoir un compte <a href="http://www.github.com">Github</a></li>
+<li><a href="http://git-scm.com/book/en/Getting-Started-Installing-Git">Git</a> est installé.</li>
+</ul>
+
+
+<h4>Récupérer les sources depuis Github</h4>
+
+<p>{% gist 4532971 %}</p>
+
+<h4>Créer un fichier dans le répertoire source/_posts</h4>
+
+<p>Le fichier doit s'appeler [YYYY-MM-DD-TITRE.markdown].</p>
+
+<p>Exemple : 2013-01-07-blog-octopress.markdown</p>
+
+<h4>Ajouter l'entête</h4>
+
+<p>{% gist 4533268 %}</p>
+
+<h4>Régider votre article</h4>
+
+<p>Prenez exemple sur les articles déjà écrits : <a href="https://github.com/JCERTIFLab/jcertiflab.github.com/tree/source/source/_posts">ici</a>.
+Profitez pour regarder les sources de cet article pour vous faire une idée.</p>
+
+<p>Pour avoir une preview du blog en local, il faut :</p>
+
+<ul>
+<li>Installer Ruby 1.9.3</li>
+<li>Installer bundler</li>
+<li>Utiliser la commande : rake preview</li>
+<li>Lancer le blog via l'url : http://localhost:4000</li>
+</ul>
+
+
+<p>Plus de détails <a href="http://octopress.org/docs/setup/">ici</a>.</p>
+
+<h4>Soumettez un article</h4>
+
+<p>{% gist 4533333 %}</p>
+
+<h4>Mise en ligne d'un article</h4>
+
+<p>La mise en ligne est effectuée par un build Jenkins. Si vous souhaitez mettre en place ce mécanisme pour votre blog, l'article <a href="http://blog.dlecan.com/octopress-continous-integration/">Octopress continous integration</a> va vous intéresser.</p>
+
+<h2>Pour une utilisation avancée d'Octopress</h2>
+
+<p>Consulter la <a href="http://octopress.org/docs/">documentation en ligne</a> ou contacter lab@jcertif.org</p>
+]]></content>
+  </entry>
+  
+</feed>
