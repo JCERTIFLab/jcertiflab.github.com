@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Platform, | JCertif Lab]]></title>
+  <link href="http://JCERTIFLab.github.com/blog/categories/platform-/atom.xml" rel="self"/>
+  <link href="http://JCERTIFLab.github.com/"/>
+  <updated>2013-02-15T12:04:26-05:00</updated>
+  <id>http://JCERTIFLab.github.com/</id>
+  <author>
+    <name><![CDATA[JCertif Lab]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lancement du projet extjs-netbeans-plugin]]></title>
+    <link href="http://JCERTIFLab.github.com/blog/2013/01/07/lancement-projet-extjs-netbeans-plugin/"/>
+    <updated>2013-01-07T22:59:00-05:00</updated>
+    <id>http://JCERTIFLab.github.com/blog/2013/01/07/lancement-projet-extjs-netbeans-plugin</id>
+    <content type="html"><![CDATA[<p>JCertif Lab a le plaisir de vous annoncer le lancement du projet extjs-netbeans-plugin dont l'objectif est la création d'un plugin permettant de faciliter le développement des projets avec <a href="http://www.sencha.com/products/extjs">Sencha ExtJS</a>.</p>
+
+<p>Ce projet sera construit avec les technologies suivantes :</p>
+
+<ul>
+<li>Langage Java</li>
+<li><a href="http://www.sencha.com/products/extjs">Sencha ExtJS</a></li>
+<li><a href="http://netbeans.org/features/platform/">Netbeans Platform</a></li>
+</ul>
+
+
+<p>Le code sera hébergé sur Github : <a href="https://github.com/JCERTIFLab/extjs-netbeans-plugin">https://github.com/JCERTIFLab/extjs-netbeans-plugin</a>.</p>
+
+<p>Le lead fonctionnel &amp; technique de ce projet est :</p>
+
+<table>
+    <tr>
+        <td width="20%"><img src="/images/constantin_drabo.jpg" width="100%"/></td>
+        <td width="5%"></td>
+        <td width="75%">Constantin Drabo<br/><br/>Ingénieur en informatique (spécialité Technologies de l'Internet et Multimédia).<br/>
+Ma passion : Netbeans, Java, Fedora<br/>
+Mes communautés favorites : Java , Netbeans Community , Fedora project, Google Developers et Mozilla<br/>
+Je suis JUG Leader , Fedora Ambassador.</td>
+    </tr>
+</table>
+
+
+<br/>
+
+
+<p>Pour suivre l'actualité du projet, vous pouvez rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/extjs-netbeans-plugin">extjs-netbeans-plugin</a>.</p>
+
+<p>Pour contribuer au projet, vous pouvez suivre les étapes suivantes :</p>
+
+<ol>
+<li><p>Rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/extjs-netbeans-plugin">extjs-netbeans-plugin</a></p></li>
+<li><p>Créer un compte <a href="https://github.com/">Github</a></p></li>
+<li><p>Envoyer un mail à extjs-netbeans-plugin@googlegroups.com avec les éléments suivants : une petite présentation de vous, votre compte Github et vos souhaits.</p></li>
+</ol>
+
+
+<p>Les projets en préparation qui vont bientôt être lancés :</p>
+
+<ul>
+<li>JCertif-Backend-2013 : backend des applications JCertif 2013</li>
+<li>Un projet sur la domotique</li>
+</ul>
+
+
+<p>Pour toute information sur JCertif Lab, contacter nous à l'adresse lab@jcertif.org.</p>
+]]></content>
+  </entry>
+  
+</feed>
