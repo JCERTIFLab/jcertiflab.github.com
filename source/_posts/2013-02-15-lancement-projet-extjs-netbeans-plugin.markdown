@@ -43,6 +43,8 @@ Pour contribuer au projet, vous pouvez suivre les étapes suivantes :
 Les projets en préparation qui vont bientôt être lancés :
 
 *	JCertif-Backend-2013 : backend des applications JCertif 2013
+*	JCertif Android 2013 : application android de l'événement JCertif 2013
+*	JCertif Web 2013 : le site web de l'événement JCertif 2013
 *	Un projet sur la domotique
 
 Pour toute information sur JCertif Lab, contacter nous à l'adresse lab@jcertif.org.
