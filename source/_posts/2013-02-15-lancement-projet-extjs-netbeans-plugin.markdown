@@ -3,7 +3,7 @@ layout: post
 title: "Lancement du projet extjs-netbeans-plugin"
 date: 2013-01-07 22:59
 comments: true
-categories: ExtJS, Netbeans Platform, OSGI, Java
+categories: ExtJS, Netbeans, OSGI, Java
 author: Rossi Oddet
 ---
 JCertif Lab a le plaisir de vous annoncer le lancement du projet extjs-netbeans-plugin dont l'objectif est la création d'un plugin permettant de faciliter le développement des projets avec [Sencha ExtJS](http://www.sencha.com/products/extjs).
