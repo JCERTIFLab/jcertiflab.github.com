@@ -4,7 +4,7 @@
   <title><![CDATA[JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
-  <updated>2013-02-15T12:04:26-05:00</updated>
+  <updated>2013-02-15T14:55:05-05:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[JCertif Lab]]></name>
@@ -63,6 +63,8 @@ Je suis JUG Leader , Fedora Ambassador.</td>
 
 <ul>
 <li>JCertif-Backend-2013 : backend des applications JCertif 2013</li>
+<li>JCertif Android 2013 : application android de l&#8217;événement JCertif 2013</li>
+<li>JCertif Web 2013 : le site web de l&#8217;événement JCertif 2013</li>
 <li>Un projet sur la domotique</li>
 </ul>
 
