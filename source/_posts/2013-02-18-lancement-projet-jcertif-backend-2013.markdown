@@ -22,11 +22,6 @@ Ce projet est sous la responsabilité de :
 
 <table>
 	<tr>
-		<td width="15%"><img src="https://secure.gravatar.com/avatar/7b3ffda0746f3f4503b7a3094ec1ef95?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
-		<td width="5%"></td>
-		<td width="80%">Rossi Oddet<br/>(Lead fonctionnel)</td>
-	</tr>
-	<tr>
 		<td width="15%"><img src="https://secure.gravatar.com/avatar/eba3b1936415cab39d33de2e19c679fe?s=400&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
 		<td width="5%"></td>
 		<td width="80%">Olivier Mbieleu<br/>(Lead technique)</td>
@@ -46,7 +41,11 @@ Ce projet est sous la responsabilité de :
 		<td width="5%"></td>
 		<td width="80%">ROASSEM NGONODJI Gerard<br/>(Lead technique)</td>
 	</tr>
-	
+	<tr>
+		<td width="15%"><img src="https://secure.gravatar.com/avatar/7b3ffda0746f3f4503b7a3094ec1ef95?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
+		<td width="5%"></td>
+		<td width="80%">Rossi Oddet<br/>(Lead fonctionnel)</td>
+	</tr>
 </table>
 <br/>
 
