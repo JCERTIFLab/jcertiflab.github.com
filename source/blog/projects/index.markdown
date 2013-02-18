@@ -46,7 +46,7 @@ Github : [https://github.com/JCERTIFLab/jcertif-backend-2013](https://github.com
 Github : [https://github.com/JCERTIFLab/jcertif-backend-2013/graphs/contributors](https://github.com/JCERTIFLab/jcertif-backend-2013/graphs/contributors)
 
 #### Statut
-En cours de préparation
+En cours
 
 ## JCertif Android 2012
 
