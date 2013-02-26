@@ -23,7 +23,7 @@ Le lead fonctionnel & technique de ce projet est :
 	<tr>
 		<td width="20%"><img src="{{ root_url }}/images/firas_gabsi.jpg" width="100%"/></td>
 		<td width="5%"></td>
-		<td width="75%">Firas Gabsi<br/><br/>IIngénieur en Téléinformatique. Je travaille pour une société de développement au poste de développeur multiplateformes (Android, JavaEE, j2me, ...) et j'enseigne la programmation Java EE et ULM dans le même institut de ma formation.<br/>J'ai développé une expertise particulière dans l’analyse fonctionnelle, la conception et la réalisation des systèmes informatiques réalisés sous Java EE et Android.<br/>Mes principales motivations sont la satisfaction de mes clients et le perfectionnement continu dans ma discipline.</td>
+		<td width="75%">Firas Gabsi<br/><br/>Ingénieur en Téléinformatique. Je travaille pour une société de développement au poste de développeur multiplateformes (Android, JavaEE, j2me, ...) et j'enseigne la programmation Java EE et ULM dans le même institut de ma formation.<br/>J'ai développé une expertise particulière dans l’analyse fonctionnelle, la conception et la réalisation des systèmes informatiques réalisés sous Java EE et Android.<br/>Mes principales motivations sont la satisfaction de mes clients et le perfectionnement continu dans ma discipline.</td>
 	</tr>
 </table>
 <br/>
