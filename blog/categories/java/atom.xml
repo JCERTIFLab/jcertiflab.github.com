@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Java | JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/blog/categories/java/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
-  <updated>2013-02-19T14:01:50-05:00</updated>
+  <updated>2013-02-26T17:26:02-05:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[JCertif Lab]]></name>
@@ -12,6 +12,58 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lancement du projet M-Domotique]]></title>
+    <link href="http://JCERTIFLab.github.com/blog/2013/02/25/lancement-projet-m-domotique/"/>
+    <updated>2013-02-25T22:59:00-05:00</updated>
+    <id>http://JCERTIFLab.github.com/blog/2013/02/25/lancement-projet-m-domotique</id>
+    <content type="html"><![CDATA[<p>JCertif Lab a le plaisir de vous annoncer le lancement du projet M-Domotique.</p>
+
+<p>Le projet « M-Domotique » consiste à concevoir et implémenter une application qui apporte une autre solution plus efficace, plus simple à utiliser et moins coûteuse que celles commercialisées actuellement. Elle offre la possibilité à son utilisateur d’administrer et de gérer n’importe quelle local. Ce contrôle peut être effectué soit à distance (à travers un terminal mobile) ou localement.
+En résumé, le projet offre à l’utilisateur un bouquet de fonctions très utiles tel que :<br/>
+*   Surveiller son établissement à distance quel que soit son emplacement tant qu’il dispose d’une connexion internet.<br/>
+* Permet de réaliser des différentes actions à distance, lancées depuis le terminal mobile du client ou à partir du serveur, tel que contrôler une machine, allumer ou éteindre une lampe,…<br/>
+* Consulter les caméras de surveillances à distance, c’est dire recevoir sur le terminal mobile du client une vue instantané prise par la camera.</p>
+
+<p>Le code sera hébergé sur Github : <a href="https://github.com/JCERTIFLab/m-domotique">https://github.com/JCERTIFLab/m-domotique</a>.</p>
+
+<p>Le lead fonctionnel &amp; technique de ce projet est :</p>
+
+<table>
+    <tr>
+        <td width="20%"><img src="/images/firas_gabsi.jpg" width="100%"/></td>
+        <td width="5%"></td>
+        <td width="75%">Firas Gabsi<br/><br/>IIngénieur en Téléinformatique. Je travaille pour une société de développement au poste de développeur multiplateformes (Android, JavaEE, j2me, ...) et j'enseigne la programmation Java EE et ULM dans le même institut de ma formation.<br/>J'ai développé une expertise particulière dans l’analyse fonctionnelle, la conception et la réalisation des systèmes informatiques réalisés sous Java EE et Android.<br/>Mes principales motivations sont la satisfaction de mes clients et le perfectionnement continu dans ma discipline.</td>
+    </tr>
+</table>
+
+
+<br/>
+
+
+<p>Pour suivre l'actualité du projet, vous pouvez rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/m-domotique">m-domotique</a>.</p>
+
+<p>Pour contribuer au projet, vous pouvez suivre les étapes suivantes :</p>
+
+<ol>
+<li><p>Rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/m-domotique">m-domotique</a></p></li>
+<li><p>Créer un compte <a href="https://github.com/">Github</a></p></li>
+<li><p>Envoyer un mail à m-domotique@googlegroups.com avec les éléments suivants : une petite présentation de vous, votre compte Github et vos souhaits.</p></li>
+</ol>
+
+
+<p>Les projets en préparation qui vont bientôt être lancés :</p>
+
+<ul>
+<li>JCertif Android 2013 : application android de l'événement JCertif 2013</li>
+<li>JCertif Web 2013 : le site web de l'événement JCertif 2013</li>
+</ul>
+
+
+<p>Pour toute information sur JCertif Lab, contacter nous à l'adresse lab@jcertif.org.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lancement du projet JCertif-Backend-2013]]></title>
