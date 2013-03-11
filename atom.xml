@@ -4,7 +4,7 @@
   <title><![CDATA[JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
-  <updated>2013-02-26T17:38:23-05:00</updated>
+  <updated>2013-03-11T13:16:55-04:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[JCertif Lab]]></name>
@@ -12,6 +12,80 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lancement du projet JCertif Backoffice 2013]]></title>
+    <link href="http://JCERTIFLab.github.com/blog/2013/03/11/lancement-projet-jcertif-backoffice-2013/"/>
+    <updated>2013-03-11T17:00:00-04:00</updated>
+    <id>http://JCERTIFLab.github.com/blog/2013/03/11/lancement-projet-jcertif-backoffice-2013</id>
+    <content type="html"><![CDATA[<p>JCertif Lab a le plaisir de vous annoncer le lancement du projet JCertif Back Office 2013 dont l&#8217;objectif est de créer une interface d&#8217;administration des données de la conférence JCertif 2013 en cours de préparation.
+L&#8217;application web à développer utilisera les services web REST exposés par l&#8217;application JCertif Backend 2013 en cours de développement.
+Elle permettra par exemple :</p>
+
+<ul>
+<li>De visualiser tous les participants inscrits</li>
+<li>D&#8217;intégrer les partenaires de l&#8217;événement</li>
+<li>De gérer le calendrier de l&#8217;événement</li>
+<li>etc&#8230;</li>
+</ul>
+
+
+<p>Ce projet sera construit avec la technologie <a href="http://www.sencha.com/products/extjs">Sencha ExtJS</a>.</p>
+
+<p>Le code sera hébergé sur Github : <a href="https://github.com/JCERTIFLab/jcertif-backoffice-2013">https://github.com/JCERTIFLab/jcertif-backoffice-2013</a>.</p>
+
+<p>Le lead technique de ce projet est :</p>
+
+<table>
+    <tr>
+        <td width="20%"><img src="https://secure.gravatar.com/avatar/627784ca4e9955a4755b89c0dd028993?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
+        <td width="5%"></td>
+        <td width="75%"><b>Chrisbel Roland</b><br/><br/>Président de Jcertif France & Manager Senior JCertif International, Chrisbel est membre et co-leader de Congo-Jug.<br/>
+C&#8217;est un homme passionné et audacieux et aime croire que tout est possible lorsqu&#8217;on se donne les moyens.<br/>Ingénieur développeur et formateur  JAVA EE, il partage son temps entre des missions de formation et développement projet au sein de la communauté JCertif, la plus grande communauté sur le développement des applications WEB et MOBILE en Afrique.</td>
+    </tr>
+</table>
+
+
+<br/>
+
+
+<p>Le lead fonctionnel de ce projet est :</p>
+
+<table>
+    <tr>
+        <td width="20%"><img src="https://secure.gravatar.com/avatar/7b3ffda0746f3f4503b7a3094ec1ef95?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
+        <td width="5%"></td>
+        <td width="75%"><b>Rossi Oddet</b><br/><br/>Consultant IT à Nantes (France), Rossi est responsable de l&#8217;entité JCertif Lab de l&#8217;organisation JCertif.<br/>
+        Il s&#8217;occupera de spécifier l&#8217;application à réaliser et répondra à toutes les problématiques fonctionnelles.<br/></td>
+    </tr>
+</table>
+
+
+<br/>
+
+
+<p>Pour suivre l&#8217;actualité du projet, vous pouvez rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/jcertif-backoffice-2013">jcertif-backoffice-2013</a>.</p>
+
+<p>Pour contribuer au projet, vous pouvez suivre les étapes suivantes :</p>
+
+<ol>
+<li><p>Rejoindre le groupe : <a href="https://groups.google.com/forum/?fromgroups#!forum/jcertif-backoffice-2013">jcertif-backoffice-2013</a></p></li>
+<li><p>Créer un compte <a href="https://github.com/">Github</a></p></li>
+<li><p>Envoyer un mail à jcertif-backoffice-2013@googlegroups.com avec les éléments suivants : une petite présentation de vous, votre compte Github et vos souhaits.</p></li>
+</ol>
+
+
+<p>Les projets en préparation qui vont bientôt être lancés :</p>
+
+<ul>
+<li>JCertif Android 2013 : application android de l&#8217;événement JCertif 2013</li>
+<li>JCertif Web 2013 : le site web de l&#8217;événement JCertif 2013</li>
+</ul>
+
+
+<p>Pour toute information sur JCertif Lab, contacter nous à l&#8217;adresse lab@jcertif.org.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lancement du projet M-Domotique]]></title>
