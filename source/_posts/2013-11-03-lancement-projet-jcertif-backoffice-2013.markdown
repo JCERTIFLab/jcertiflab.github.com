@@ -24,7 +24,16 @@ Le lead technique de ce projet est :
 </table>
 <br/>
 
-Le lead fonctionnel de ce projet est Rossi Oddet. 
+Le lead fonctionnel de ce projet est :
+
+<table>
+	<tr>
+		<td width="20%"><img src="https://secure.gravatar.com/avatar/7b3ffda0746f3f4503b7a3094ec1ef95?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
+		<td width="5%"></td>
+		<td width="75%">Rossi Oddet<br/><br/>Votre serviteur JCertif Lab/td>
+	</tr>
+</table>
+<br/>
 
 Pour suivre l'actualité du projet, vous pouvez rejoindre le groupe : [jcertif-backoffice-2013](https://groups.google.com/forum/?fromgroups#!forum/jcertif-backoffice-2013).
 
