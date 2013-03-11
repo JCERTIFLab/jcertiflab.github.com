@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Lancement du projet JCertif Backoffice 2013"
-date: 2013-01-07 22:59
+date: 2013-03-11 17:00
 comments: true
-categories: ExtJS, NetBeans, OSGI, Java
+categories: ExtJS, Javascript
 author: Rossi Oddet
 ---
 JCertif Lab a le plaisir de vous annoncer le lancement du projet JCertif Backoffice 2013 dont l'objectif est de créer une interface d'administration des données de la conférence JCertif 2013 en cours de préparation.
