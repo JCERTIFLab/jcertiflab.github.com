@@ -25,9 +25,8 @@ Le lead technique de ce projet est :
 	<tr>
 		<td width="20%"><img src="https://secure.gravatar.com/avatar/627784ca4e9955a4755b89c0dd028993?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
 		<td width="5%"></td>
-		<td width="75%">Chrisbel Roland<br/><br/>Président de JCertif France, Manager Projet JCertif Conference, membre actif et co-leader de CongoJUG, Chrisbel est un homme passionné et ambitieux.<br/>
-		Il aime croire que c'est possible lorsqu'on se donne les moyens.<br/>
-		Ingénieur et développeur JAVA EE à Paris.</td>
+		<td width="75%">Chrisbel Roland<br/><br/>Président de Jcertif France & Manager Senior JCertif International, Chrisbel est membre et co-leader de Congo-Jug.<br/>
+C'est un homme passionné et audacieux et aime croire que tout est possible lorsqu'on se donne les moyens.<br/>Ingénieur développeur et formateur  JAVA EE, il partage son temps entre des missions de formation et développement projet au sein de la communauté JCertif, la plus grande communauté sur le développement des applications WEB et MOBILE en Afrique.</td>
 	</tr>
 </table>
 <br/>
