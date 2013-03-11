@@ -6,8 +6,14 @@ comments: true
 categories: ExtJS, Javascript
 author: Rossi Oddet
 ---
-JCertif Lab a le plaisir de vous annoncer le lancement du projet JCertif Backoffice 2013 dont l'objectif est de créer une interface d'administration des données de la conférence JCertif 2013 en cours de préparation.
+JCertif Lab a le plaisir de vous annoncer le lancement du projet JCertif Back Office 2013 dont l'objectif est de créer une interface d'administration des données de la conférence JCertif 2013 en cours de préparation.
 L'application web à développer utilisera les services web REST exposés par l'application JCertif Backend 2013 en cours de développement.
+Elle permettra par exemple :
+
+* De visualiser tous les participants inscrits
+* D'intégrer les partenaires de l'événement
+* De gérer le calendrier de l'événement
+* etc...
 
 Ce projet sera construit avec la technologie [Sencha ExtJS](http://www.sencha.com/products/extjs).
 
