@@ -33,7 +33,7 @@ Le lead fonctionnel de ce projet est :
 		<td width="20%"><img src="https://secure.gravatar.com/avatar/7b3ffda0746f3f4503b7a3094ec1ef95?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
 		<td width="5%"></td>
 		<td width="75%">Rossi Oddet<br/><br/>Consultant IT à Nantes (France), Rossi est responsable de l'entité JCertif Lab de l'organisation JCertif.<br/>
-		Il s'occupera de spécifier l'application à réaliser et répondra à toutes les problématiques fonctionnelles (et techniques de temps en temps)<br/><br/></td>
+		Il s'occupera de spécifier l'application à réaliser et répondra à toutes les problématiques fonctionnelles.<br/></td>
 	</tr>
 </table>
 <br/>
