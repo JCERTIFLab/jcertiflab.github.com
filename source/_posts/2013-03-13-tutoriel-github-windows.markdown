@@ -13,7 +13,7 @@ Il existe une autre façon pour gérer les projets sur GitHub en utilisant une i
 2. Installer l’outil une fois le téléchargement est terminé.
 3. Lancer l’application à travers le raccourci situé dans le bureau.
 4. S’authentifier 
-<p><center><img src="{{ root_url }}/images/00.png" width="100%"/></center></p>
+<p><center><img src="{{root_url}}/images/00.png" width="100%"/></center></p>
 5. Une fois l’authentification est effectuée, on accède à l’interface principale de l’application GitHub :
 <p><center><img src="{{ root_url }}/images/01.png" width="100%"/></center></p>
 6.  Accéder à la liste des projets de JCertif en cliquant sur « JCERTIFLab » juste à gauche :
