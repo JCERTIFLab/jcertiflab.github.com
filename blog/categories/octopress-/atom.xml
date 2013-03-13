@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress, | JCertif Lab]]></title>
   <link href="http://JCERTIFLab.github.com/blog/categories/octopress-/atom.xml" rel="self"/>
   <link href="http://JCERTIFLab.github.com/"/>
-  <updated>2013-03-11T13:16:55-04:00</updated>
+  <updated>2013-03-13T02:40:20-04:00</updated>
   <id>http://JCERTIFLab.github.com/</id>
   <author>
     <name><![CDATA[JCertif Lab]]></name>
@@ -12,6 +12,81 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tutoriel GitHub sur windows]]></title>
+    <link href="http://JCERTIFLab.github.com/blog/2013/03/13/tutoriel-github-windows/"/>
+    <updated>2013-03-13T00:50:00-04:00</updated>
+    <id>http://JCERTIFLab.github.com/blog/2013/03/13/tutoriel-github-windows</id>
+    <content type="html"><![CDATA[<p>Il existe une autre façon pour gérer les projets sur GitHub en utilisant une interface graphique (pour les personnes qui galèrent avec l’invite de commande :p ), pour ce là, il suffit de suivre les étapes suivantes :</p>
+
+<ol>
+<li>Télécharger l’outil GitHub pour Windows à travers ce lien : http://windows.github.com/</li>
+<li>Installer l’outil une fois le téléchargement est terminé.</li>
+<li>Lancer l’application à travers le raccourci situé dans le bureau.</li>
+<li>S’authentifier</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/00.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Une fois l’authentification est effectuée, on accède à l’interface principale de l’application GitHub :</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/01.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Accéder à la liste des projets de JCertif en cliquant sur « JCERTIFLab » juste à gauche :</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/03.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Dans la liste des projets, localiser le projet « m-domotique »</li>
+<li>En survolant le titre du projet avec la sourie : apparait le bouton « CLONE », Cliquez dessus. Et toutes les données situées dans ce projet seront stockées dans votre machine, son emplacement est le suivant : C:\Users&lt;nom_utilisateur>\Documents\GitHub.</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/04.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Prenons le cas où je désire ajouter un nouveau fichier (ex : README.txt)  dans ce projet (ex : dans le sous répertoire « Application mobile »), il suffit de déplacer le fichier dans le répertoire désiré.</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/05.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>On revient maintenant à l’application GitHub, et on accède au clone créé précédemment à travers le menu « local »</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/06.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Dès qu’on fait un double clic sur ce projet, l’outil détecte automatiquement qu’il existe des différences entre la version située dans la machine et celle dans le serveur, dans ce cas il nous propose de faire un commit à partir du rectangle jaune :</li>
+</ol>
+
+
+<p><center><img src="https://github.com/JCERTIFLab/jcertiflab.github.com/blob/master/images/07.png?raw=true" width="100%"/></center></p>
+
+
+<ol>
+<li>Il faut écrire un message qui résume les nouvelles modifications effectuées sur le projet avant de cliquer sur le bouton commit et si c’est nécessaire une description si non on ne peut pas faire le commit.</li>
+<li>Dans le cas ou désire contribuer à un projet existant, après avoir cloné le projet, on faire un import de celui-ci à partir de l’Eclipse. Une fois qu’on réalise une tâche, on fait un commit comme on l’a fait précédemment.</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Contribuer au blog JCertif Lab]]></title>
