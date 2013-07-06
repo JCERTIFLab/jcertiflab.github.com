@@ -27,7 +27,7 @@ Team Lead du projet :
 		J'ai travaillé avec  des boîtes IT dans le passé telles que Afrinet ou VMK, où j'ai contribué à la conception du premier smartphone conçu en Afrique.<br/>
 		Je  travaille aussi comme consultant IT dans plusieurs entreprises.<br/>
 		J'ai commencé avec Android en 2009, et depuis je suis resté très enthousiaste; essayant toujours de suivre l'évotion de la plateforme.<br/>
-		Speaker au Jcertif Conférence et membre actif du JcertifLab; Fondateur du GDG Kinshasa, et récemment, Speaker Adroid au GDays DRCongo.
+		Speaker au Jcertif Conférence et membre actif du JcertifLab; fondateur du GDG Kinshasa, et récemment, Speaker Adroid au GDays DRCongo.
 		</td>
 	</tr>
 </table>
