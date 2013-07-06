@@ -11,7 +11,7 @@ JCertif Lab a le plaisir de vous annoncer le lancement du projet JCertif-Android
 Ce projet sera construit avec les technologies suivantes :
 
 * Langage Java
-*	SDK Android
+* SDK Android
 
 Le code sera hébergé sur Github : [https://github.com/JCERTIFLab/jcertif-android-2013](https://github.com/JCERTIFLab/jcertif-android-2013).
 
@@ -26,7 +26,7 @@ Team Lead du projet :
 </table>
 <br/>
 
-Pour suivre contribuer, suivez les instructions de la rubrique nouvel arrivant du projet : [https://github.com/JCERTIFLab/jcertif-android-2013/wiki/contributeur](https://github.com/JCERTIFLab/jcertif-android-2013/wiki/contributeur).
+Pour contribuer, suivez les instructions de la rubrique nouvel arrivant du projet : [https://github.com/JCERTIFLab/jcertif-android-2013/wiki/contributeur](https://github.com/JCERTIFLab/jcertif-android-2013/wiki/contributeur).
 
 Pour toute information sur JCertif Lab, contactez nous à l'adresse lab@jcertif.org.
 
