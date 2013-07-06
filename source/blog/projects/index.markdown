@@ -7,6 +7,8 @@ sharing: true
 footer: true
 ---
 
+N'hésitez pas à proposer vos idées en envoyant un mail à <a href="mailto:lab@jcertif.org" title="lab@jcertif.org">lab@jcertif.org</a>.
+
 ## JCertif Web 2013
 
 #### Objectif
