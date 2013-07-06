@@ -23,7 +23,7 @@ Team Lead du projet :
 	<tr>
 		<td width="15%"><img src="https://secure.gravatar.com/avatar/f288bb03b50fe2345b395d48744aa6e8?s=400&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="100%"/></td>
 		<td width="5%"></td>
-		<td width="80%">Patrick Bashizi<br/><br/>Developpeur Java et Android.Ecrire du code open source est ce qui me passionne le plus.<br/>PLus proche d'un autodidacte que d'un ingénieur formé, j'aime être à la pointe et tester les techologies de demain.<br/>
+		<td width="80%">Patrick Bashizi<br/><br/>Développeur Java et Android.Ecrire du code open source est ce qui me passionne le plus.<br/>PLus proche d'un autodidacte que d'un ingénieur formé, j'aime être à la pointe et tester les techologies de demain.<br/>
 		J'ai travaillé avec  des boîtes IT dans le passé telles que Afrinet ou VMK, où j'ai contribué à la conception du premier smartphone conçu en Afrique.<br/>
 		Aujourdh'ui je travaille comme consultant IT dans plusieurs boites.<br/>
 		J'ai commencé avec Android en 2009, et depuis je suis resté très enthousiaste; essayant toujours de suivre l'évotion de la plateforme.<br/>
