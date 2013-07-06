@@ -7,6 +7,30 @@ sharing: true
 footer: true
 ---
 
+## JCertif Web 2013
+
+#### Objectif
+Le projet "JCertif Web 2013" consiste à créer un nouvel habillage du site www.jcertif.com.
+
+#### Technologies
+Ce projet utilise les technologies suivantes :
+* AngularJS
+* Bower
+* Grunt
+* UI Bootstrap
+
+#### Sources
+Github : [https://github.com/JCERTIFLab/jcertif-web-2013](https://github.com/JCERTIFLab/jcertif-web-2013)
+
+#### Contributeurs
+Github : [https://github.com/JCERTIFLab/jcertif-web-2013/graphs/contributors](https://github.com/JCERTIFLab/jcertif-web-2013/graphs/contributors)
+
+#### Comment Contribuer ?
+Page en cours de rédaction
+
+#### Statut
+En cours de préparation
+
 ## JCertif Android 2013
 
 #### Objectif
@@ -25,13 +49,40 @@ Github : [https://github.com/JCERTIFLab/jcertif-android-2013](https://github.com
 #### Contributeurs
 Github : [https://github.com/JCERTIFLab/jcertif-android-2013/graphs/contributors](https://github.com/JCERTIFLab/jcertif-android-2013/graphs/contributors)
 
+#### Comment Contribuer ?
+Page en cours de rédaction
+
 #### Statut
 En cours de préparation
+
+## M-Domotique
+
+#### Objectif
+Le projet "M-Domotique" consiste à créer une solution d'administration d'équipement à distance.
+
+#### Technologies
+Ce projet utilise les technologies suivantes :
+* Arduino
+* Raspberry Pi
+* Java SE Embedded
+* Java EE
+
+#### Sources
+Github : [https://github.com/JCERTIFLab/m-domotique](https://github.com/JCERTIFLab/m-domotique)
+
+#### Contributeurs
+Github : [https://github.com/JCERTIFLab/m-domotique/graphs/contributors](https://github.com/JCERTIFLab/m-domotique/graphs/contributors)
+
+#### Comment Contribuer ?
+[Contribuer](http://jcertiflab.github.io/blog/2013/02/25/lancement-projet-m-domotique/)
+
+#### Statut
+En cours
 
 ## JCertif Backend 2013
 
 #### Objectif
-Le projet "JCertif Backend 2012" consiste à créer une application exposant des services web (REST) que vont consommer les différentes applications de JCertif (site web, application mobile, etc...).
+Le projet "JCertif Backend 2013" consiste à créer une application exposant des services web (REST) que vont consommer les différentes applications de JCertif (site web, application mobile, etc...).
 
 #### Technologies
 Ce projet utilise les technologies suivantes :
@@ -44,6 +95,9 @@ Github : [https://github.com/JCERTIFLab/jcertif-backend-2013](https://github.com
 
 #### Contributeurs
 Github : [https://github.com/JCERTIFLab/jcertif-backend-2013/graphs/contributors](https://github.com/JCERTIFLab/jcertif-backend-2013/graphs/contributors)
+
+#### Comment Contribuer ?
+[https://github.com/JCERTIFLab/jcertif-backend-2013/wiki/Nouvel-Arrivant](https://github.com/JCERTIFLab/jcertif-backend-2013/wiki/Nouvel-Arrivant)
 
 #### Statut
 En cours
